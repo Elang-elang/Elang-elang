@@ -32,19 +32,20 @@ const developer = {
 
 ---
 
-🛠️ Keahlian Teknis
+## 🛠️ Keahlian Teknis
 
-Bahasa Pemrograman
+### Bahasa Pemrograman
 
 <div align="center" style="max-width: 100%; overflow-x: auto;">
 
- Python JavaScript C C++ Java
-Logo <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40">
-Level ⭐⭐⭐⭐⭐ ⭐⭐⭐⭐ ⭐⭐⭐ ⭐⭐⭐ ⭐⭐
-
+Python JavaScript C C++ Java
+<br/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40">
+<br />
+**Logos**
 </div>
 
-Teknologi & Tools
+### Teknologi & Tools
 
 <p align="center">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
@@ -57,27 +58,28 @@ Teknologi & Tools
 
 ---
 
-📊 Statistik GitHub
+## Statistik
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=Elang-elang&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117" style="max-width: 100%; height: auto;" />
+  <img
+  src="https://github-readme-stats.vercel.app/api?username=Elang-elang&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117" style="max-width: 100%; height: auto;" />
 
   <br/>
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elang-elang&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" style="max-width: 100%; height: auto;" />
-
+  
   <br/>
 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Elang-elang&theme=radical&hide_border=true&background=0d1117" style="max-width: 100%; height: auto;" />
-
+  
 </div>
 
 ---
 
-🚀 Proyek Unggulan
+## 🚀 Proyek Unggulan
 
-🔥 Script Automation Suite
+### 🔥 Script Automation Suite
 
 Koleksi script Python untuk otomatisasi database (Data)
 
@@ -99,35 +101,31 @@ print(f"Data ditemukan: {data}")
 
 ---
 
-📈 Perjalanan Coding Saya
+### 📈 Perjalanan Coding Saya
 
-Catatan tentang Mermaid: Diagram Mermaid hanya akan dirender secara otomatis di GitHub. Aplikasi lain seperti Acode mungkin tidak mendukung rendering Mermaid. Untuk melihat diagram dengan benar, lihatlah di GitHub.com.
-
-Berikut timeline perkembangan saya dalam bentuk tabel yang kompatibel di semua platform:
+Penjelasan:
 
 Tahap Periode Durasi Pencapaian
-Intermediate 2024-01 s/d 2024-03 3 bulan Pengembangan Web (JS, HTML, CSS)
+Intermediate 2023-11 s/d 2024-03 4 bulan Pengembangan Web (JS, HTML, CSS)
 Foundation 2024-06 s/d 2024-11 5 bulan Belajar Python & Dasar Algoritma
 Current 2024 s/d Sekarang Sedang berjalan Script Development & Open Source
 
-Diagram Mermaid:
+Diagram:
 
 ```mermaid
 timeline
     title Perjalanan Coding Saya
     2023 : Foundation
         : Belajar Python &<br>Dasar Algoritma
-    2023 : Intermediate
+    2024 : Intermediate
         : Pengembangan Web<br>(JS, HTML, CSS)
-    2024 : Advanced
-        : Pengembangan Aplikasi<br>(C++, Java)
     2024-Sekarang : Current
         : Script Development &<br>Open Source
 ```
 
 ---
 
-🎯 Visi & Misi
+### 🎯 Visi & Misi
 
 <div align="center">
 
@@ -150,7 +148,7 @@ Progress saat ini: 🟢 2/5 script | 🟡 1/2 kontribusi
 
 ---
 
-📫 Hubungi Saya
+### 📫 Hubungi Saya
 
 <p align="center">
   <a href="mailto:elangmuhammad888@gmail.com">
@@ -167,7 +165,7 @@ Progress saat ini: 🟢 2/5 script | 🟡 1/2 kontribusi
 
 ---
 
-💡 Quote Harian
+### 💡 Quote Harian
 
 "The sky is not the limit for an eagle, and neither is code for a developer." - Elang-elang
 
@@ -179,7 +177,7 @@ Progress saat ini: 🟢 2/5 script | 🟡 1/2 kontribusi
 
 Terima kasih telah mengunjungi profil saya!
 
-⭐ Jangan lupa untuk star repositori favorit Anda!
+### ⭐ Jangan lupa untuk star repositori favorit Anda!
 
   <br/>
 
