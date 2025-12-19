@@ -62,16 +62,12 @@ Python JavaScript C C++ Java
 
 <div align="center">
 
-  <img
-  src="https://github-readme-stats.vercel.app/api?username=Elang-elang&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117" style="max-width: 100%; height: auto;" />
-
   <br/>
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elang-elang&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" style="max-width: 100%; height: auto;" />
   
-  <br/>
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Elang-elang&theme=radical&hide_border=true&background=0d1117" style="max-width: 100%; height: auto;" />
+  <img
+  src="https://github-readme-stats.vercel.app/api?username=Elang-elang&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117" style="max-width: 100%; height: auto;" />
   
 </div>
 
